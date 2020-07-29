@@ -1,3 +1,5 @@
+/* Googleify Startpage.com */
+
 @-moz-document domain("startpage.com") {
 body, td, a, p {
     font-family: arial, helvetica, sans-serif !important;

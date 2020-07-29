@@ -1,3 +1,4 @@
+@-moz-document domain("startpage.com") {
 body, td, a, p {
     font-family: arial, helvetica, sans-serif !important;
 }
@@ -109,3 +110,5 @@ img.search-filter-region__selected-all-regions-icon {
     display: none;
 }
 
+
+}
